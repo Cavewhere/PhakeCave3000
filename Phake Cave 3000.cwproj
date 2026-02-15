@@ -1,0 +1,12 @@
+{
+ "fileVersion": {
+  "version": 8,
+  "cavewhereVersion": "2025.2-885-gb5926b50"
+ },
+ "name": "Phake Cave 3000",
+ "metadata": {
+  "dataRoot": "Phake Cave 3000",
+  "gitMode": "ManagedNew",
+  "syncEnabled": true
+ }
+}

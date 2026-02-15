@@ -1,0 +1,276 @@
+{
+ "date": {
+  "year": 2020,
+  "month": 2,
+  "day": 26
+ },
+ "tripCalibration": {
+  "correctedCompassBacksight": false,
+  "correctedClinoBacksight": false,
+  "tapeCalibration": 0,
+  "frontCompassCalibration": 0,
+  "frontClinoCalibration": 0,
+  "backCompasssCalibration": 0,
+  "backClinoCalibration": 0,
+  "declination": 0,
+  "distanceUnit": "Meters",
+  "frontSights": true,
+  "backSights": false,
+  "correctedCompassFrontsight": false,
+  "correctedClinoFrontsight": false
+ },
+ "chunks": [
+  {
+   "leg": [
+    {
+     "id": "bcbfa8e3-0590-43c9-af2b-c74aa8098c0b",
+     "name": "a1",
+     "left": "0",
+     "right": "5",
+     "up": "2",
+     "down": "1.3"
+    },
+    {
+     "id": "91db80e5-9e74-4770-806b-e55faf9bfd85",
+     "distance": "14.52",
+     "compass": "49",
+     "clino": "-3"
+    },
+    {
+     "id": "183ebea4-ceb3-420c-86de-cfc9ef2554d4",
+     "name": "a2",
+     "left": "2.5",
+     "right": "0",
+     "up": "1.5",
+     "down": "2"
+    },
+    {
+     "id": "9dedec07-b135-4e94-a0c7-03fdb084aec5",
+     "distance": "9.13",
+     "compass": "352",
+     "clino": "-17.3"
+    },
+    {
+     "id": "e1a0f618-deaa-4186-aa18-ba07f4466090",
+     "name": "a3",
+     "left": "1.5",
+     "right": "3",
+     "up": "4.5",
+     "down": "1"
+    },
+    {
+     "id": "fd3e81f2-5fd9-4478-93e2-d79999320264",
+     "distance": "11.05",
+     "compass": "82",
+     "clino": "-4.5"
+    },
+    {
+     "id": "cd63ed27-66f8-45b4-86f3-c29376bc6885",
+     "name": "a4",
+     "left": "0",
+     "right": "2",
+     "up": "2",
+     "down": "1.7"
+    },
+    {
+     "id": "a1f4ea34-39fd-4ed8-b479-aebd1506ee55",
+     "distance": "6.97",
+     "compass": "41",
+     "clino": "11.2"
+    },
+    {
+     "id": "8bfbd655-a901-4583-bd81-389549faf5be",
+     "name": "a5",
+     "left": "2.5",
+     "right": "2.5",
+     "up": "11",
+     "down": "2"
+    }
+   ],
+   "id": "d7b43e35-1a42-477f-a738-3ee6e78428fb"
+  },
+  {
+   "leg": [
+    {
+     "id": "6e3b73fc-6381-48a2-bc1c-cf8988badf83",
+     "name": "a4",
+     "left": "5",
+     "right": "0",
+     "up": "3",
+     "down": "23"
+    },
+    {
+     "id": "bf584ed2-bb6e-4369-9bd2-25ffc56beb74",
+     "distance": "16.54",
+     "compass": "147.5",
+     "clino": "-7.5"
+    },
+    {
+     "id": "f874da68-665b-461a-98d3-c42645c79dd4",
+     "name": "a6",
+     "left": "5",
+     "right": "0",
+     "up": "3",
+     "down": "23"
+    },
+    {
+     "id": "dba64f30-d0de-4c79-abce-00c74f409c7a",
+     "distance": "9.81",
+     "compass": "43",
+     "clino": "26"
+    },
+    {
+     "id": "e38b0a59-5f70-4476-b734-24c865442082",
+     "name": "a7",
+     "left": "0.2",
+     "right": "3.5",
+     "up": "2.5",
+     "down": "1"
+    },
+    {
+     "id": "7451536d-d114-4070-bf0a-b06bf3dba59d",
+     "distance": "10.23",
+     "compass": "74",
+     "clino": "17.4"
+    },
+    {
+     "id": "52204915-ffeb-4d9f-89f3-9d9fbc4afa62",
+     "name": "a8",
+     "left": "1",
+     "right": "5",
+     "up": "2",
+     "down": "1.2"
+    }
+   ],
+   "id": "5208ed2b-85e6-428d-8170-1c4623d8638b"
+  },
+  {
+   "leg": [
+    {
+     "id": "aa255182-0c6b-49d3-b332-8fe0382eee99",
+     "name": "a6",
+     "left": "1",
+     "right": "5",
+     "up": "2",
+     "down": "1.2"
+    },
+    {
+     "id": "1f5b70e6-116b-4eb2-a163-8400b09db929",
+     "distance": "23.44",
+     "clino": "Down"
+    },
+    {
+     "id": "d8e055e2-f6d3-4876-9778-d569a68ce738",
+     "name": "a9",
+     "left": "2.3",
+     "right": "2",
+     "up": "24",
+     "down": "0"
+    },
+    {
+     "id": "ed230cb1-390e-46de-9018-f635a4fac4df",
+     "distance": "5.85",
+     "compass": "230",
+     "clino": "-8.4"
+    },
+    {
+     "id": "c7932fb8-3194-4402-adf9-aa79aa910e7d",
+     "name": "a10",
+     "left": "2.3",
+     "right": "2",
+     "up": "24",
+     "down": "0"
+    },
+    {
+     "id": "63a4ae15-9795-4491-aecb-ffd5957d2bd7",
+     "distance": "10.56",
+     "compass": "172",
+     "clino": "-21.7"
+    },
+    {
+     "id": "79529c7c-fa29-4c80-b335-df8f3ee4f0f7",
+     "name": "a11",
+     "left": "1",
+     "right": "0.2",
+     "up": "3",
+     "down": "0.5"
+    },
+    {
+     "id": "75a9fe2c-c711-4303-bfeb-4bf13ad335ef",
+     "distance": "9.17",
+     "compass": "200",
+     "clino": "-5.3"
+    },
+    {
+     "id": "9d6f4bdc-a091-457c-8418-8c272727b43b",
+     "name": "a12",
+     "left": "0",
+     "right": "2",
+     "up": "8",
+     "down": "35"
+    }
+   ],
+   "id": "c7295686-e88e-42a2-bea3-4e2ad1281a85"
+  },
+  {
+   "leg": [
+    {
+     "id": "2be82318-017a-4225-a8a0-baa4431bc0a7",
+     "name": "a10"
+    },
+    {
+     "id": "f55cfbe6-7d8e-43ea-91dd-2fa29bcc28c5",
+     "distance": "18.28",
+     "compass": "116",
+     "clino": "-4.1"
+    },
+    {
+     "id": "909c1545-fae4-4621-8efa-f92072e41728",
+     "name": "a13",
+     "left": "1.8",
+     "right": "0",
+     "up": "1.8",
+     "down": "1.7"
+    },
+    {
+     "id": "7b2bef11-3ae5-4c0a-8d0c-b0d3e0b6a126",
+     "distance": "6.99",
+     "compass": "91",
+     "clino": "-1.2"
+    },
+    {
+     "id": "8907fa5e-305c-4812-9ffe-038752601f46",
+     "name": "a14",
+     "left": "0",
+     "right": "2",
+     "up": "2",
+     "down": "1.9"
+    },
+    {
+     "id": "e1d01daf-fea7-4665-abb4-d6de2808ab92"
+    },
+    {
+     "id": "d73ccac8-d7b5-4df1-b0e2-54fe0811d15e"
+    }
+   ],
+   "id": "a29bc72b-1c0d-46f4-86b1-e9dca0515f9b"
+  }
+ ],
+ "team": {
+  "teamMembers": [
+   {
+    "name": "Philip Schuchardt",
+    "id": "f6a8ce10-ce74-4f98-b1da-3645e532633c",
+    "jobs": [
+     "Developer"
+    ]
+   }
+  ]
+ },
+ "name": "2025.2 Release",
+ "fileVersion": {
+  "version": 8,
+  "cavewhereVersion": "2025.2-885-gb5926b50"
+ },
+ "id": "e8a1d251-20ce-4255-a14f-34f7f1fd099c"
+}
