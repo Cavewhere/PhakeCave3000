@@ -1,0 +1,151 @@
+{
+ "date": {
+  "year": 2026,
+  "month": 3,
+  "day": 22
+ },
+ "tripCalibration": {
+  "correctedCompassBacksight": false,
+  "correctedClinoBacksight": false,
+  "tapeCalibration": 0,
+  "frontCompassCalibration": 0,
+  "frontClinoCalibration": 0,
+  "backClinoCalibration": 0,
+  "declination": 90,
+  "distanceUnit": "Meters",
+  "frontSights": true,
+  "backSights": false,
+  "correctedCompassFrontsight": false,
+  "correctedClinoFrontsight": false,
+  "backCompassCalibration": 0
+ },
+ "chunks": [
+  {
+   "leg": [
+    {
+     "id": "ed97fdf9-63c7-46bc-94d8-160f381ebd48",
+     "name": "1"
+    },
+    {
+     "id": "aa9faa5e-1758-4877-80b6-1d732dbed644",
+     "distance": "5.92",
+     "compass": "12.2",
+     "clino": "-69.7"
+    },
+    {
+     "id": "90249f40-17ce-437f-a478-1aba4dedaa06",
+     "name": "0"
+    }
+   ],
+   "id": "36292039-e72f-4840-b40f-b49a69f53be9"
+  },
+  {
+   "leg": [
+    {
+     "id": "16a3a7e4-25f8-465f-a393-97150e041468",
+     "name": "2"
+    },
+    {
+     "id": "ba0c0017-b855-46db-b9be-2d4a13ccaf3a",
+     "distance": "2.25",
+     "compass": "8.4",
+     "clino": "24.1"
+    },
+    {
+     "id": "6936e894-825c-43c7-ab61-57f9bdd49f31",
+     "name": "1"
+    }
+   ],
+   "id": "d2d17440-f8ab-4a4f-b79f-96f6286fb54c"
+  },
+  {
+   "leg": [
+    {
+     "id": "92136346-52db-42ec-863f-44cc59edc82b",
+     "name": "2"
+    },
+    {
+     "id": "781aada7-e0f2-40f0-a568-5cd8600378ca",
+     "distance": "3.80",
+     "compass": "156.2",
+     "clino": "35.6"
+    },
+    {
+     "id": "2749f91e-9172-415b-a42c-add46f54d0fe",
+     "name": "3"
+    },
+    {
+     "id": "00a3815a-7922-40a3-8d18-9a2bdd0fc680",
+     "distance": "11.33",
+     "compass": "211.2",
+     "clino": "73.0"
+    },
+    {
+     "id": "54cde04e-fe77-40a0-a891-5c204fe6fe6d",
+     "name": "4"
+    },
+    {
+     "id": "9a31ccf6-091f-4d66-b509-ea704d0d9ba2",
+     "distance": "1.03",
+     "compass": "118.3",
+     "clino": "5.7"
+    },
+    {
+     "id": "d44721ea-d9b3-4078-bb6b-598c4a067412",
+     "name": "5"
+    },
+    {
+     "id": "ac5b92c7-d016-425f-baa2-7344be6e05f5",
+     "distance": "4.44",
+     "compass": "179.1",
+     "clino": "50.3"
+    },
+    {
+     "id": "f5220760-8e88-4fc5-b9d3-5b9148875b42",
+     "name": "6"
+    },
+    {
+     "id": "e7e82669-641a-46f6-ae33-0d69ce2552ca",
+     "distance": "6.61",
+     "compass": "226.8",
+     "clino": "74.8"
+    },
+    {
+     "id": "a7ea345f-f012-4dfc-9e3f-28310dda42ca",
+     "name": "a12"
+    }
+   ],
+   "id": "9fbb8f83-d2a8-4062-bb22-3223030581c9"
+  }
+ ],
+ "team": {
+  "teamMembers": [
+   {
+    "name": "Philip Schuchardt",
+    "id": "8a964533-693a-47b1-bc8e-d1a8454dfc4a",
+    "jobs": [
+     "Josiah",
+     "M"
+    ]
+   },
+   {
+    "name": "Josiah MacLeod",
+    "id": "0347cdf8-f391-4819-b437-327970f9b9ef"
+   },
+   {
+    "name": "Emily Bardak",
+    "id": "27b3580d-b9e2-45c9-912f-70e41bb5578e"
+   },
+   {
+    "name": "",
+    "id": "f5a21eab-6dfb-4aff-8abb-fa7622b91502"
+   }
+  ]
+ },
+ "name": "2026.4",
+ "fileVersion": {
+  "version": 9,
+  "cavewhereVersion": "2025.2-1189-ge121d767"
+ },
+ "id": "3830959e-e260-449e-a471-340dbefafcf7"
+}

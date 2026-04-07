@@ -1,0 +1,54 @@
+{
+ "name": "3_22_2026.glb",
+ "fileName": "3_22_2026.glb",
+ "noteStations": [
+  {
+   "name": "1",
+   "positionOnNote": {
+    "x": 0.185058594,
+    "y": -0.760742188,
+    "z": -1.89404297
+   },
+   "id": "a8ff0520-450e-4c7e-80c7-ac061c381168"
+  },
+  {
+   "name": "2",
+   "positionOnNote": {
+    "x": -0.450683594,
+    "y": -2.14624023,
+    "z": 0.2578125
+   },
+   "id": "703945a2-c7a2-4ba0-b363-30c5bf332507"
+  },
+  {
+   "name": "3",
+   "positionOnNote": {
+    "x": 0.427246094,
+    "y": -0.103881836,
+    "z": 2.96142578
+   },
+   "id": "4ec364fd-ce77-4f03-9f05-197120f9e809"
+  }
+ ],
+ "noteTransformation": {
+  "planTransform": {
+   "northUp": 6.9468413914421818,
+   "scaleNumerator": {
+    "value": 1,
+    "unit": "Inches"
+   },
+   "scaleDenominator": {
+    "value": 1,
+    "unit": "Inches"
+   }
+  },
+  "upMode": "YisUp",
+  "upSign": 1
+ },
+ "autoCalculateNorth": true,
+ "fileVersion": {
+  "version": 8,
+  "cavewhereVersion": "2025.2-1027-gef5ffbdb"
+ },
+ "id": "485275fe-c3dc-4689-9734-1edf5a181b2f"
+}

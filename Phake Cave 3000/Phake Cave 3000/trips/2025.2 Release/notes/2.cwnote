@@ -5,7 +5,7 @@
    "height": 4481
   },
   "dotPerMeter": 3780,
-  "path": "Phake Cave 3000/trips/2025.2 Release/notes/2.jpeg"
+  "path": "2.jpeg"
  },
  "rotation": 0,
  "scraps": [
@@ -162,18 +162,7 @@
      "id": "a19711ed-8f6b-4e78-86b4-0adbb40293bf"
     }
    ],
-   "noteTransformation": {
-    "northUp": 0,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 1.2410644962682653,
-     "unit": "Meters"
-    }
-   },
-   "calculateNoteTransform": false,
+   "calculateNoteTransform": true,
    "type": "RunningProfile",
    "id": "506c17eb-7f80-4a67-9cf1-dfca9bb02e79"
   },
@@ -302,18 +291,7 @@
      "id": "5a9af934-7ba1-4e3f-b3ec-7af624ae5bda"
     }
    ],
-   "noteTransformation": {
-    "northUp": 0,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 48.334354565926212,
-     "unit": "Inches"
-    }
-   },
-   "calculateNoteTransform": false,
+   "calculateNoteTransform": true,
    "type": "RunningProfile",
    "id": "c5eebad0-7382-439f-ad30-b950b9a7b37d"
   },
@@ -459,13 +437,13 @@
     }
    ],
    "noteTransformation": {
-    "northUp": 0,
+    "northUp": 359.69998560271029,
     "scaleNumerator": {
      "value": 1,
      "unit": "Inches"
     },
     "scaleDenominator": {
-     "value": 48.845756359412555,
+     "value": 14.881811054081135,
      "unit": "Inches"
     }
    },
@@ -546,18 +524,7 @@
      "id": "107c26d6-9209-41f2-bd39-9cbb28432bd2"
     }
    ],
-   "noteTransformation": {
-    "northUp": 0,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 43.588552265495039,
-     "unit": "Inches"
-    }
-   },
-   "calculateNoteTransform": false,
+   "calculateNoteTransform": true,
    "type": "RunningProfile",
    "id": "c08e0f15-bfdb-4906-9fc5-f88c3008a518"
   },
@@ -630,23 +597,8 @@
      "id": "46cc260a-b961-41bb-891b-0aeb1114f389"
     }
    ],
-   "noteTransformation": {
-    "northUp": 0.32625916551478834,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 50,
-     "unit": "Inches"
-    }
-   },
-   "calculateNoteTransform": false,
+   "calculateNoteTransform": true,
    "type": "ProjectedProfile",
-   "profileViewMatrix": {
-    "azimuth": 95,
-    "direction": "LeftToRight"
-   },
    "id": "9738d582-6123-4505-8d1c-0859afb12adf"
   }
  ],
@@ -656,8 +608,8 @@
  },
  "name": "2",
  "fileVersion": {
-  "version": 8,
-  "cavewhereVersion": "2025.2-885-gb5926b50"
+  "version": 9,
+  "cavewhereVersion": "2025.2-1189-ge121d767"
  },
  "id": "1691c6ef-2a2b-47a3-ab01-7376b17e8302"
 }

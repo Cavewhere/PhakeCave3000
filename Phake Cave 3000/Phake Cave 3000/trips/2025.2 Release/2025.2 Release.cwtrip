@@ -10,14 +10,14 @@
   "tapeCalibration": 0,
   "frontCompassCalibration": 0,
   "frontClinoCalibration": 0,
-  "backCompasssCalibration": 0,
   "backClinoCalibration": 0,
   "declination": 0,
-  "distanceUnit": "Meters",
+  "distanceUnit": "Feet",
   "frontSights": true,
   "backSights": false,
   "correctedCompassFrontsight": false,
-  "correctedClinoFrontsight": false
+  "correctedClinoFrontsight": false,
+  "backCompassCalibration": 0
  },
  "chunks": [
   {
@@ -269,8 +269,8 @@
  },
  "name": "2025.2 Release",
  "fileVersion": {
-  "version": 8,
-  "cavewhereVersion": "2025.2-885-gb5926b50"
+  "version": 9,
+  "cavewhereVersion": "2025.2-1189-ge121d767"
  },
  "id": "e8a1d251-20ce-4255-a14f-34f7f1fd099c"
 }
