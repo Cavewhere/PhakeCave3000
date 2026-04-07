@@ -330,17 +330,6 @@
      "id": "75eace4f-5f8d-4918-98eb-525994fb1e70"
     }
    ],
-   "noteTransformation": {
-    "northUp": 2.3219518278302149,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 141.80766275069334,
-     "unit": "Inches"
-    }
-   },
    "calculateNoteTransform": true,
    "leads": [
     {
@@ -582,17 +571,6 @@
      "id": "7cf12cb7-91ac-4570-a60d-d1dfd496ba30"
     }
    ],
-   "noteTransformation": {
-    "northUp": 1.0063878875923913,
-    "scaleNumerator": {
-     "value": 1,
-     "unit": "Inches"
-    },
-    "scaleDenominator": {
-     "value": 140.86066540957751,
-     "unit": "Inches"
-    }
-   },
    "calculateNoteTransform": true,
    "leads": [
     {
@@ -625,7 +603,7 @@
       "x": 0.73868745565414429,
       "y": 0.17062446475028992
      },
-     "completed": false,
+     "completed": true,
      "description": "Pit",
      "id": "29ef7971-8e0c-48ae-849f-cc86c5162942"
     }
@@ -640,8 +618,8 @@
  },
  "name": "1",
  "fileVersion": {
-  "version": 8,
-  "cavewhereVersion": "2025.2-885-gb5926b50"
+  "version": 9,
+  "cavewhereVersion": "2025.2-1189-ge121d767"
  },
  "id": "228fa0cc-2db5-45ed-b7ca-1d17ac93c207"
 }
